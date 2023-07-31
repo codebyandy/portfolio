@@ -573,10 +573,12 @@ ol {
 .hero-section {
 	clear: both;
 	position: relative;
+	height: 1000px
 }
 
 .hero-item {
-	height: 278px;
+	/* height: 278px; */
+	height: 1000px;
 	position: relative;
 }
 
@@ -832,7 +834,7 @@ ol {
 ---------------------*/
 
 .portfolio-section {
-	padding-top: 120px;
+	/* padding-top: 120px; */
 }
 
 .portfolio-filter {
